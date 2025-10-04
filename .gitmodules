@@ -1,6 +1,8 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github-chroniclse:Chroniclse/PersonalizedWeather-frontend.git
+	url = https://github.com/Chroniclse/PersonalizedWeather-frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github-chroniclse:Chroniclse/PersonalizedWeather-backend.git
+	url = https://github.com/Chroniclse/PersonalizedWeather-backend.git
+
+
